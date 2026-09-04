@@ -1,0 +1,13 @@
+{
+  "name": "magic-fps-duel",
+  "version": "0.1.0",
+  "description": "3D First-Person Magic Duel Game",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "socket.io": "^4.7.5"
+  }
+}
